@@ -1,0 +1,52 @@
+{
+  "next": {
+    "skill": { "repo": "vercel-labs/next-skills", "name": "next-best-practices" },
+    "rule": { "source": "nextjs.ts", "slug": "nextjs-react-redux-typescript-cursor-rules", "name": "next" },
+    "recommend": null
+  },
+  "react": {
+    "skill": null,
+    "rule": { "source": "react.ts", "slug": "react", "name": "react" },
+    "recommend": null
+  },
+  "typescript": {
+    "skill": null,
+    "rule": { "source": "typescript.ts", "slug": "typescript-development-guidelines-shortcuts", "name": "typescript" },
+    "recommend": null
+  },
+  "tailwindcss": {
+    "skill": null,
+    "rule": null,
+    "recommend": null
+  },
+  "@supabase/supabase-js": {
+    "skill": { "repo": "supabase/agent-skills", "name": "supabase-postgres-best-practices" },
+    "rule": null,
+    "recommend": null
+  },
+  "better-auth": {
+    "skill": { "repo": "better-auth/skills", "name": "better-auth-best-practices" },
+    "rule": null,
+    "recommend": null
+  },
+  "expo": {
+    "skill": { "repo": "expo/skills", "name": "building-native-ui" },
+    "rule": { "source": "expo.ts", "slug": "expo-react-native-typescript-cursor-rules", "name": "expo" },
+    "recommend": null
+  },
+  "remotion": {
+    "skill": { "repo": "remotion-dev/skills", "name": "remotion-best-practices" },
+    "rule": null,
+    "recommend": null
+  },
+  "prisma": {
+    "skill": null,
+    "rule": { "source": "prisma.ts", "slug": "prisma-orm-cursor-rules", "name": "prisma" },
+    "recommend": null
+  },
+  "drizzle-orm": {
+    "skill": null,
+    "rule": null,
+    "recommend": null
+  }
+}
